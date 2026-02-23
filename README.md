@@ -21,7 +21,7 @@ El análisis integra datos de congestión vehicular (Jams Delay / Traffic Index)
 # ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatianarestrepoquiroz/analysis-movilidad-y-productividad-LATAM/blob/main/Analysis_Movilidad_urbana_y_productividad_economica_en_ciudades_de_LATAM.ipynb)
+https://colab.research.google.com/drive/1onrIJiGubdNzRlFrwlyv23s3qZ-jK5zb?usp=sharing
 
 # 📘 Cómo reproducir el análisis
 
